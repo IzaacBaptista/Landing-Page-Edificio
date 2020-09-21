@@ -1,4 +1,4 @@
 # Landing Page Edificio
  
 
-<img src="/img/apresentação.jpg">
+<img src="img/apresentação.JPG">
